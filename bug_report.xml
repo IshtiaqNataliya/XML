@@ -1,0 +1,11 @@
+<bugReport>
+  <bugSummary>registration window shows nothing up when login in </bugSummary>
+  <severity>critical</severity>
+  <stepsToReproduce>
+      <step>open registration page</step>
+      <step>enter login</step>
+  </stepsToReproduce> 
+  <actualResult>login is not displayed</actualResult>
+  <expectedResult>login is displayed</expectedResult>
+  <priority>high</priority>
+</bugReport>
