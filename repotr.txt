@@ -1,0 +1,11 @@
+ID
+Summary
+Description
+Pre-condition
+Steps
+Aatual result
+Exoected result
+Environment
+Severity
+Priority
+Attachment
